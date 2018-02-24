@@ -9,7 +9,7 @@ i. The IP address and SSH port so your server can be accessed by the reviewer.
  * SSH port : 2200
 
 ii. The complete URL to your hosted web application.
- * address : [a link](http://ec2-54-199-232-245.ap-northeast-1.compute.amazonaws.com)
+ * address : [http://ec2-54-199-232-245.ap-northeast-1.compute.amazonaws.com](http://ec2-54-199-232-245.ap-northeast-1.compute.amazonaws.com)
  
 iii. A summary of software you installed and configuration changes made.
 iv. A list of any third-party resources you made use of to complete this project.
