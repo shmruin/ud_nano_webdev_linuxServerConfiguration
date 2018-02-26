@@ -31,3 +31,6 @@ iv. A list of any third-party resources you made use of to complete this project
 
 * All realted files are in `/var/www/FlaskApp`
 
+# Notes to Reviewer
+
+* ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDJxWDS83z3E+evy3FeRUu4HyXieqf3aztt7aS+cLWeils1X9HpjC2n4pJ9i+F6/z/i4UGjOQ5r8jYehkSlIkiPnMPR8qtBz0Q0zfP8btYeF60BU5jtBPOEr6wTqGInDb6uhraUInvrncXFZ29x0lvFeDFDlDe9JoI1c0a5cUsU3LBgfIfzh30OaLgF2nDVhuC/jPfge5SG5sKctHq5TodbAi5ntJ6Ci18q0vDCJlcK9mX8/CzSjylAn3RXQandEOjXDyQMjKE9NpGO7UBZWMmtmJmlkJJNx3BXGJDjUO0CyKWsixUPFqrCcY2zzVWGYp70A57Nz2nq2EEItXYE8VIH ubuntu@ip-172-26-12-98
