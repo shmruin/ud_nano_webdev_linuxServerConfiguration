@@ -1,3 +1,5 @@
+**Delete the server as project completed**
+
 ![Alt text](screenshots/success1.PNG?raw=true "category_client View")
 ![Alt text](screenshots/Server.PNG?raw=true "category_server View")
 
