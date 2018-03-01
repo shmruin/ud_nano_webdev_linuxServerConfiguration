@@ -3,7 +3,7 @@
 
 # Introduction
 
-This project provides linux server environment for previous 'Build an Item Catalog Application' project
+This project provides linux server environment for previous 'Build an Item Catalog Application' project <br />
 Server side configuration : Linux(ubuntu) + Apache2 + postgreSQL + python3
 
 # Necessary meetups
