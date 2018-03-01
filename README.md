@@ -1,6 +1,10 @@
+![Alt text](screenshots/success1.PNG?raw=true "category_client View")
+![Alt text](screenshots/Server.PNG?raw=true "category_server View")
+
 # Introduction
 
 This project provides linux server environment for previous 'Build an Item Catalog Application' project
+Server side configuration : Linux(ubuntu) + Apache2 + postgreSQL + python3
 
 # Necessary meetups
 
